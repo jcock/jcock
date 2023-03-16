@@ -47,14 +47,12 @@
 ---
 
 <!-- markdownlint-disable -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcock&show_icons=true&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcock&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" /><br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcock&theme=city_lights&hide_border=true" /><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcock&theme=onedark&hide_border=true" /><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcock&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcock&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br>
 <!-- markdownlint-enable -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=jcock&theme=juicyfresh&no-bg=true" />
 
 ---
 
